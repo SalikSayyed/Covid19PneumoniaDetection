@@ -1,5 +1,6 @@
 # Covid19PneumoniaDetection
-Covid-19 and Pneumonia detection through X-ray images and trying to answer weather a Covid-19 patient has Pnemonia
+Covid-19 and Pneumonia detection through X-ray images and trying to answer weather a Covid-19 patient has Pnemonia.
+Also concluding that virtually Covid-19 Patient X-Ray is very likely to have Pnemonia.
 
 For Notebook see : ![Covid-19 MD](./covid_19_x_ray_with_pneumonia%20(1).md)
 
