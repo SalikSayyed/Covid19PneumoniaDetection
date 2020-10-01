@@ -2,9 +2,10 @@
 Covid-19 and Pneumonia detection through X-ray images and trying to answer weather a Covid-19 patient has Pnemonia.
 Also concluding that virtually Covid-19 Patient X-Ray is very likely to have Pnemonia.
 
+[![Watch the video](Capture8.png)](https://drive.google.com/file/d/1HfaxtSmTJV-_3wNyQ9b3oXWA4TZZUjF1/view?usp=sharing)
+
 For Notebook see : ![Covid-19 MD](./covid_19_x_ray_with_pneumonia%20(1).md)
 
-For Application Video : https://drive.google.com/file/d/11rNuIFvWNUW89yPdfU6cjC9JS15GMiU0/view?usp=sharing
 ![png](cp3.jpg)
 ![png](Capture2.PNG)
 ![png](Capture.PNG)
